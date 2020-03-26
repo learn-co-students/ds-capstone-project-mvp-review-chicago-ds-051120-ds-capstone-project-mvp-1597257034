@@ -12,7 +12,7 @@ Please see the Capstone task in Learn.co (or shared by your teacher, if applicab
 
 You have until the middle of the second Capstone week to create and submit your Minimum Viable Product, which includes your project repo and presentation. Please submit the link to your project repo via the Learn.co assignment tool. Project submissions will be reviewed by your teachers by the end of the week.
 
-Teachers will use [this project rubric](https://docs.google.com/spreadsheets/d/1YUC5_QVu8BEd7xBJumzspH40-KuJtL9KQInQYXGi5bE/edit?usp=sharing) to grade your submission and presentation. Elements on the "Need to Have" sheet contribute to your score, while elements on the "Nice to Have" sheet are not scored. You will receive a final 1-5 score based on the rating for each "Need to Have" element. A score of 3 or higher is considered passing.
+Teachers will use [this project rubric](https://docs.google.com/spreadsheets/d/1YUC5_QVu8BEd7xBJumzspH40-KuJtL9KQInQYXGi5bE/edit?usp=sharing) to grade your submission and presentation. You will receive a final 1-5 score based on the rating for each rubric element. A score of 3 or higher is considered passing.
 
 * 1: Less than half of elements are rated "Minimum Viable Product" or better
 * 2: Half or more elements are rated "Minimum Viable Product" or better
