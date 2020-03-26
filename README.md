@@ -14,8 +14,8 @@ You have until the middle of the second Capstone week to create and submit your 
 
 Teachers will use [this project rubric](https://docs.google.com/spreadsheets/d/1YUC5_QVu8BEd7xBJumzspH40-KuJtL9KQInQYXGi5bE/edit?usp=sharing) to grade your submission and presentation. Elements on the "Need to Have" sheet contribute to your score, while elements on the "Nice to Have" sheet are not scored. You will receive a final 1-5 score based on the rating for each "Need to Have" element. A score of 3 or higher is considered passing.
 
-* 1: Less than half of elements are rated "Minimum Viable Product"
-* 2: Half or more elements are rated "Minimum Viable Product"
+* 1: Less than half of elements are rated "Minimum Viable Product" or better
+* 2: Half or more elements are rated "Minimum Viable Product" or better
 * 3: All elements are rated "Minimum Viable Product" or better
 * 4: All elements are rated "Minimum Viable Product" or better, half or more elements are rated "Complete Project"
 * 5: All elements are rated "Complete Project"
