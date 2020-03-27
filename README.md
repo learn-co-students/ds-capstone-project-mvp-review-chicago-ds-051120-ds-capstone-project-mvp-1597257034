@@ -10,15 +10,15 @@ Please see the Capstone task in Learn.co (or shared by your teacher, if applicab
 
 ## The Project Review
 
-You have until the middle of the second Capstone week to create and submit your Minimum Viable Product, which includes your project repo and presentation. Please submit the link to your project repo via the Learn.co assignment tool. Project submissions will be reviewed by your teachers by the end of the week.
+You have until the middle of the second Capstone week to create and submit your Minimum Viable Product (MVP), which includes your project repo and presentation. Please submit the link to your project repo via the Learn.co assignment tool. Project submissions will be reviewed by your teachers by the end of the week.
 
-Teachers will use [this project rubric](https://docs.google.com/spreadsheets/d/1YUC5_QVu8BEd7xBJumzspH40-KuJtL9KQInQYXGi5bE/edit?usp=sharing) to grade your submission and presentation. You will receive a final 1-5 score based on the rating for each rubric element. A score of 3 or higher is considered passing.
+Teachers will use [this project rubric](https://docs.google.com/spreadsheets/d/1YUC5_QVu8BEd7xBJumzspH40-KuJtL9KQInQYXGi5bE/edit?usp=sharing) to grade your submission and presentation. Each element can receive a rating of "Incomplete", "MVP", or "Complete". You will receive a final 1-5 score based on the rating for each rubric element. A score of 3 or higher is considered passing.
 
-* 1: Less than half of elements are rated "Minimum Viable Product" or better
-* 2: Half or more elements are rated "Minimum Viable Product" or better
-* 3: All elements are rated "Minimum Viable Product" or better
-* 4: All elements are rated "Minimum Viable Product" or better, half or more elements are rated "Complete Project"
-* 5: All elements are rated "Complete Project"
+* 1: Less than half of elements are rated "MVP" or "Complete"
+* 2: Half or more elements are rated "MVP" or "Complete"
+* 3: All elements are rated "MVP" or "Complete"
+* 4: All elements are rated "MVP" or "Complete", half or more elements are rated "Complete"
+* 5: All elements are rated "Complete"
 
 If your project does not score a 3 or higher on the first review, you will have an option to re-submit your project in the middle of the final week for a second review. Your project must pass this second review for you to graduate with your cohort. If your project does not pass this second review, your teachers may give you the option to continue working on the project and re-submit it for a final review after the cohort graduates.
 
