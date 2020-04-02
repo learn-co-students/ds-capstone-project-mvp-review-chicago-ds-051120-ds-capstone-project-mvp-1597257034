@@ -20,7 +20,7 @@ Teachers will use [this project rubric](https://docs.google.com/spreadsheets/d/1
 * 4: All elements are rated "MVP" or "Complete", half or more elements are rated "Complete"
 * 5: All elements are rated "Complete"
 
-If your project does not score a 3 or higher on the first review, you will have an option to re-submit your project in the middle of the final week for a second review. Your project must pass this second review for you to graduate with your cohort. If your project does not pass this second review, your teachers may give you the option to continue working on the project and re-submit it for a final review after the cohort graduates.
+If your project does not score a 3 or higher on the first review, you will have an option to re-submit your project in the middle of the final week for a second review. Your project must pass this second review for you to graduate with your cohort. 
 
 ## Summary
 
